@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringCheckLibrary", "StringCheckLibrary\StringCheckLibrary.csproj", "{68CFCD49-4069-45A9-8B51-283E1FFBF4FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringChecTest", "StringChecTest\StringChecTest.csproj", "{CF34A46C-918D-46C1-9171-A7DE084850DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68CFCD49-4069-45A9-8B51-283E1FFBF4FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68CFCD49-4069-45A9-8B51-283E1FFBF4FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68CFCD49-4069-45A9-8B51-283E1FFBF4FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68CFCD49-4069-45A9-8B51-283E1FFBF4FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF34A46C-918D-46C1-9171-A7DE084850DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF34A46C-918D-46C1-9171-A7DE084850DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF34A46C-918D-46C1-9171-A7DE084850DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF34A46C-918D-46C1-9171-A7DE084850DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F610D52-5AB0-4A91-B837-F52576DEA4F2}
+	EndGlobalSection
+EndGlobal
